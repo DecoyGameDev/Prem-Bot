@@ -31,7 +31,9 @@ to you. Now please, don't do anything stupid with PremBot...
 view drops at some points in time. Do be aware of this.
 
 # Support
-   Consider a donation to keep this project alive and for the countless hours of works and testing :)
+   Please donate to the developers of PremBot. This is the list of their PayPal and Bitcoin wallet.
+   I do not have a donate page up as I feel I don't deserve to be given money for something I did not
+   do. Cheers to all of the developers who helped make the YouTube Bot, and fork PremBot.
    
   **PayPal :** https://paypal.me/mshawon1
   
