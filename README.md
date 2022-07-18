@@ -27,7 +27,8 @@ of your YouTube account. Use this bot at your own risk, it is not Prem Bot's or 
 Reporting me or the developer of this bot will always resort in me copy and pasting this text, and sending it back
 to you. Now please, don't do anything stupid with PremBot...
 
-**Cons:** There will be some view drop always. 
+**Cons:** Prem Bot was not developed by me, but the developer has stated that PremBot's code can cause
+view drops at some points in time. Do be aware of this.
 
 # Support
    Consider a donation to keep this project alive and for the countless hours of works and testing :)
