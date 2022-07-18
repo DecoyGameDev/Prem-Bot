@@ -18,10 +18,14 @@
 ██║░░░░░██║░░██║███████╗██║░╚═╝░██║  ██████╦╝╚█████╔╝░░░██║░░░
 ╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░░░░╚═╝  ╚═════╝░░╚════╝░░░░╚═╝░░░
 
-# YouTube Viewer
-Simple program to increase YouTube views written in Python. Works with live stream too.
+# Prem Bot
+Open Source view bot program.
 
-**Disclaimer:** This has been developed for educational purposes only. Any action you take using this script is strictly at your own risk. I will not be liable for any losses or damages you face using this script.
+**Disclaimer:** This was developed with education and testing for Google and other developers in mind.
+Using this to gain views on your personal channel is not a good idea. It will most probably result in termination
+of your YouTube account. Use this bot at your own risk, it is not Prem Bot's or my responasbility for your botting.
+Reporting me or the developer of this bot will always resort in me copy and pasting this text, and sending it back
+to you. Now please, don't do anything stupid with PremBot...
 
 **Cons:** There will be some view drop always. 
 
